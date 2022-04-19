@@ -1,0 +1,19 @@
+
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ãüÙ¹ıÿÿÿÿ8ö˜àÄ0
+P
+java:S1874K"3Remove this use of "newInstance"; it is deprecated.(©Š„«8¶µ¿Ä0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿ¸Ô¡8¶µ¿Ä0
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¶µ¿Ä0
+g
+java:S2259+"JA "NullPointerException" could be thrown; "groovyObject" is nullable here.(Öİˆë8¶µ¿Ä0
+a
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(Å¡ß8¶µ¿Ä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¬÷İøÿÿÿÿ8¶µ¿Ä0
+a
+java:S2147&"DCombine this catch with the one at line 34, which has the same body.(ıàÑÎ8¶µ¿Ä0
+P
+java:S1874!"3Remove this use of "newInstance"; it is deprecated.(ÄÓì8¶µ¿Ä0
+W	java:S125;"<This block of commented-out lines of code should be removed.(ƒó¦T8‹öâÄ0
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(òşé¿8¶µ¿Ä0
+]	java:S125G"<This block of commented-out lines of code should be removed.(×ù…¯ùÿÿÿÿ8œùßÄ0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(»¹°8¶µ¿Ä0
